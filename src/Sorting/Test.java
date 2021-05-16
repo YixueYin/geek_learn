@@ -11,7 +11,8 @@ public class Test {
 //        insertionSort(test);
 //        ShellSort(test);
 
-        printArray(QuickSort(test, 0, test.length-1));
+//        printArray(QuickSort(test, 0, test.length-1));
+
 //        printArray(MergeSort(test));
         long start,end;
         start = System.currentTimeMillis();
